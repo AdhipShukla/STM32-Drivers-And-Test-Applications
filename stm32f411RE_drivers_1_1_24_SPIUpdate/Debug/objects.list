@@ -1,0 +1,4 @@
+"./Drivers/Src/STM32F411RE_Driver_GPIO.o"
+"./Drivers/Src/STM32F411RE_Driver_SPI.o"
+"./Src/STM32M_ESP32S_DuplexBus.o"
+"./Startup/startup_stm32f411retx.o"
