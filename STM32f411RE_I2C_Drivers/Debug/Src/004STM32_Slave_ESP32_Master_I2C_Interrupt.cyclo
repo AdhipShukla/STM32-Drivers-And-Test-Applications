@@ -1,0 +1,5 @@
+../Src/004STM32_Slave_ESP32_Master_I2C_Interrupt.c:26:6:delay	2
+../Src/004STM32_Slave_ESP32_Master_I2C_Interrupt.c:30:5:main	1
+../Src/004STM32_Slave_ESP32_Master_I2C_Interrupt.c:97:6:I2C1_ER_IRQHandler	1
+../Src/004STM32_Slave_ESP32_Master_I2C_Interrupt.c:101:6:I2C1_EV_IRQHandler	1
+../Src/004STM32_Slave_ESP32_Master_I2C_Interrupt.c:105:6:I2C_ApplicationEventCallback	6
