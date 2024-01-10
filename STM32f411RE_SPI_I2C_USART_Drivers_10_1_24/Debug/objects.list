@@ -1,0 +1,8 @@
+"./Drivers/Src/STM32F411RE_Driver_GPIO.o"
+"./Drivers/Src/STM32F411RE_Driver_I2C.o"
+"./Drivers/Src/STM32F411RE_Driver_RCC.o"
+"./Drivers/Src/STM32F411RE_Driver_SPI.o"
+"./Drivers/Src/STM32F411RE_Driver_USART.o"
+"./Src/006STM32_ESP32_RxTx_Interrupt_UART.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f411retx.o"

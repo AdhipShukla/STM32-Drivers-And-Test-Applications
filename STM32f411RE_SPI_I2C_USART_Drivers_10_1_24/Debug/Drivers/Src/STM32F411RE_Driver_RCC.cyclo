@@ -1,0 +1,3 @@
+../Drivers/Src/STM32F411RE_Driver_RCC.c:6:10:RCC_GetLIOutputClock	1
+../Drivers/Src/STM32F411RE_Driver_RCC.c:11:10:RCC_GetPCLK1Value	6
+../Drivers/Src/STM32F411RE_Driver_RCC.c:42:10:RCC_GetPCLK2Value	6

@@ -1,0 +1,15 @@
+../Drivers/Src/STM32F411RE_Driver_USART.c:4:6:USART_PeriClockControl	8
+../Drivers/Src/STM32F411RE_Driver_USART.c:28:6:USART_Init	9
+../Drivers/Src/STM32F411RE_Driver_USART.c:79:6:USART_DeInit	4
+../Drivers/Src/STM32F411RE_Driver_USART.c:91:9:USART_GetFlagStatus	2
+../Drivers/Src/STM32F411RE_Driver_USART.c:98:6:USART_ClearFlag	1
+../Drivers/Src/STM32F411RE_Driver_USART.c:102:6:USART_PeripheralControl	2
+../Drivers/Src/STM32F411RE_Driver_USART.c:109:6:USART_SetBaudRate	5
+../Drivers/Src/STM32F411RE_Driver_USART.c:138:6:USART_SendData	6
+../Drivers/Src/STM32F411RE_Driver_USART.c:164:6:USART_ReceiveData	6
+../Drivers/Src/STM32F411RE_Driver_USART.c:196:9:USART_SendDataIT	2
+../Drivers/Src/STM32F411RE_Driver_USART.c:211:9:USART_ReceiveDataIT	2
+../Drivers/Src/STM32F411RE_Driver_USART.c:223:6:USART_IRQ_Interrupt_Config	12
+../Drivers/Src/STM32F411RE_Driver_USART.c:249:6:USART_IRQ_Priority_Config	1
+../Drivers/Src/STM32F411RE_Driver_USART.c:255:6:USART_IRQHandling	31
+../Drivers/Src/STM32F411RE_Driver_USART.c:390:13:USART_ApplicationEventCallback	1
